@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "photo cv.jpg"
   name             : "Tristan Gamot"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : "PhD student"
   location         : "Paris, FRANCE"
   employer         : "Sorbonne Université"
