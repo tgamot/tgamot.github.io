@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Contact Information:
 ======
@@ -22,6 +21,7 @@ Addresses:
   * Campus Pierre et Marie Curie
   * 4 place Jussieu, 75005 Paris
   * France
+
  
 * Centre de physique théorique de l'École polytechnique (CPHT)
   * Institut Polytechnique de Paris
