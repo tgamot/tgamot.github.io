@@ -7,14 +7,11 @@ redirect_from:
   - /resume
 ---
 
-
-Contact Information:
-======
 Email: 
 * tristan.gamot[at]sorbonne-universite[dot]fr
 * tristan.gamot[at]polytechnique[dot]edu
 
-Addresses:
+Addresses
 ====== 
 * Institute of ecology and environmental sciences of Paris (iEES)
   * Sorbonne Université - Faculté des Sciences et Ingénierie
