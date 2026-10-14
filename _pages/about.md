@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in theoretical ecology, jointly at the Institute of Ecology and Environmental Sciences of Paris (iEES-Paris, Sorbonne Université) and the Centre de Physique Théorique (CPHT, École Polytechnique), supervised by Tom Van Dooren and Jean-René Chazottes. I will defend my thesis, Inferring resilience changes and critical transitions in population and evolutionary dynamics, in November 2026. In March 2027, I will join Anne-Florence Bitbol’s group at EPFL as a postdoctoral researcher.
+<p>Populations, ecosystems and evolving lineages can shift abruptly from one state to another. I combine bifurcation theory, stochastic dynamics and time-series statistics to understand when such transitions can be anticipated from data, and when they cannot.</p>
 
-Populations, ecosystems and evolving lineages can shift abruptly from one state to another. I combine bifurcation theory, stochastic dynamics and time-series statistics to understand when such transitions can be anticipated from data, and when they cannot.
+<p>I am a PhD candidate in theoretical ecology, based jointly at the Institute of Ecology and Environmental Sciences of Paris (iEES-Paris, Sorbonne Université) and the Centre de Physique Théorique (CPHT, École Polytechnique), supervised by <a href="https://tomvandooren.eu/" target="_blank" rel="noopener">Tom Van Dooren</a> and <a href="https://sites.google.com/view/jeanrenechazottes/accueil" target="_blank" rel="noopener">Jean-René Chazottes</a>. I will defend my thesis, <em>Inferring resilience changes and critical transitions in population and evolutionary dynamics</em>, in November 2026. In March 2027, I will join <a href="https://www.epfl.ch/labs/bitbol-lab/" target="_blank" rel="noopener">Anne-Florence Bitbol's Laboratory of Computational Biology and Theoretical Biophysics</a> at EPFL as a postdoctoral researcher.</p>
 
 
 Research interests
