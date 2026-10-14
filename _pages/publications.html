@@ -9,28 +9,54 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
+<section id="publications">
+  <h2>Publications</h2>
+ 
+  <h3>Journal articles</h3>
+  <ol class="pub-list" reversed>
+    <li>
+      <strong>T. Gamot</strong>, N. Thibeau-Sutre, T. J. M. Van Dooren (2026).
+      On the Gaussian distribution of the Mann–Kendall tau in the case of autocorrelated data.
+      <em>PLOS ONE</em>, e0333224.
+      <a href="https://doi.org/10.1371/journal.pone.0333224">doi</a> ·    </li>
+    <li>
+      C. Angioni, <strong>T. Gamot</strong>, G. Tardini, E. Fable, T. Luda, N. Bonanomi, C. K. Kiefer, G. M. Staebler (2022), the ASDEX Upgrade Team and the EUROfusion MST1 Team.
+      Confinement properties of L-mode plasmas in ASDEX Upgrade and full-radius predictions of the TGLF transport model.
+      <em>Nuclear Fusion</em>.
+      <a href="https://doi.org/10.1088/1741-4326/ac592b">doi</a>
+    </li>
+  </ol>
+ 
+  <h3>Preprints</h3>
+  <ol class="pub-list" reversed>
+    <li>
+      <strong>T. Gamot</strong>, T. J. M. Van Dooren (2026).
+      An analytical framework to unify ecological and engineering resilience near critical transitions.
+      <a href="https://doi.org/10.48550/arXiv.2606.13921">arXiv:2606.13921</a>
+    </li>
+    <li>
+      <strong>T. Gamot</strong>, N. Thibeau-Sutre, T. J. M. Van Dooren (2026).
+      On the robustness of Mann–Kendall tests used to forecast critical transitions.
+      <a href="https://doi.org/10.48550/arXiv.2604.15230">arXiv:2604.15230</a>
+    </li>
+  </ol>
+ 
+  <h3>In preparation</h3>
+  <ul class="pub-list">
+    <li>
+      <strong>T. Gamot</strong>, T. J. M. Van Dooren, L.-M. Chevin.
+      What trait fluctuations reveal about abrupt evolutionary transitions.
+    </li>
+    <li>
+      <strong>T. Gamot</strong>, T. J. M. Van Dooren.
+      Early warning signals of disease outbreak and elimination in annual crop systems.
+    </li>
+    <li>
+      <strong>T. Gamot</strong>, N. Thibeau-Sutre, P.-A. Précigout, C. Robert.
+      A thermal-time framework for the latent period of leaf fungal pathogens.
+    </li>
+  </ul>
+</section>
 
 
