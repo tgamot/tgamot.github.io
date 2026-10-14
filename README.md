@@ -1,1 +1,1 @@
-Code for my professionnel website, using Academic Pages. 
+Code for my professional website, using Academic Pages. 
