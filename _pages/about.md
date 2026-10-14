@@ -18,6 +18,7 @@ Research interests
 * Early warning signals & critical slowing down
 * Resilience theory
 * Theoretical evolutionary biology
+* Theoretical ecology
 * Stochastic dynamics & bifurcation theory
 * Time-series inference
 * Trend testing
