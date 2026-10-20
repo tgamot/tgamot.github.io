@@ -27,9 +27,9 @@ Research interests
 Education
 ------
 - **PhD student in Theoretical Ecology**, Sorbonne Université (2023–present)  
-  *Inferring resilience changes and critical transitions in population and evolutionary dynamics*  
-  *Advisors: Tom Van Dooren & Jean-René Chazottes
-  *Funded by a doctoral fellowship (CDSN) from the École Normale Supérieure Paris-Saclay
+  *Inferring resilience changes and critical transitions in population and evolutionary dynamics*
+  Advisors: Tom Van Dooren & Jean-René Chazottes <br>
+  Funded by a doctoral fellowship (CDSN) from the École Normale Supérieure Paris-Saclay
 - **MSc in Theoretical Ecology and Modelling**, Muséum National d’Histoire Naturelle of Paris (2023)
 - **MSc in Fundamental Physics**, Université Paris-Saclay (2022)
 - **Diplôme de l'École Normale Supérieure Paris-Saclay**, Department of Physics (2019-2023)
